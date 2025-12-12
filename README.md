@@ -2,7 +2,7 @@
 
 • Ism: Abdurazzoqov Doston
 <br/>
-• Vazifa qancha vaqt oldi: 4 soat
+• Vazifa qancha vaqt oldi: 3 soat
 <br/>
 • Qiyin bo‘lgan joylar: React bilan html css ni integratsiya qilish
 <br/>
